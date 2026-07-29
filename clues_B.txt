@@ -10,54 +10,7 @@ A single dish
 
 ---------------
 
-MENU: 
-
-🍽️ The Random Spoon — Today's Menu
-Appetizers
-Bruschetta with Tomato & Basil ... $29.03
-
-Spinach & Artichoke Dip ... $28.23
-
-Soup of the Day ... $21.60
-
-Main Courses
-Vegetable Stir-Fry with Tofu ... $15.74
-
-Grilled Salmon with Lemon Butter ... $10.70
-
-Mushroom Risotto ... $23.39
+MENU:
 
 Lobster Tail with Drawn Butter ... $28.18
 
-Sides
-French Fries ... $28.49
-
-Rice Pilaf ... $20.32
-
-Garlic Mashed Potatoes ... $24.83
-
-Caesar Salad ... $19.63
-
-Roasted Asparagus ... $14.01
-
-Desserts
-Chocolate Lava Cake ... $29.72
-
-Apple Pie à la Mode ... $24.52
-
-New York Cheesecake ... $26.16
-
-Crème Brûlée ... $15.60
-
-Gelato Trio ... $26.35
-
-Beverages
-Sparkling Water ... $12.08
-
-Craft Beer ... $12.35
-
-Iced Tea ... $8.16
-
-Hot Chocolate ... $8.29
-
-Espresso ... $6.84

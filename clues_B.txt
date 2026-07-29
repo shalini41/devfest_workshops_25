@@ -10,7 +10,31 @@ A single dish
 
 ---------------
 
+<<<<<<< HEAD
 MENU:
 
 Lobster Tail with Drawn Butter ... $28.18
 
+=======
+MENU: 
+
+🍽️ The Random Spoon — Today's Menu
+Appetizers
+Bruschetta with Tomato & Basil ... $29.03
+
+Soup of the Day ... $21.60
+
+Main Courses
+Lobster Tail with Drawn Butter ... $28.18
+
+Vegetable Stir-Fry with Tofu ... $15.74
+
+Sides
+French Fries ... $28.49
+
+Garlic Mashed Potatoes ... $24.83
+
+Caesar Salad ... $19.63
+
+Desserts
+Chocolate Lava Cake ... $29.72 q
